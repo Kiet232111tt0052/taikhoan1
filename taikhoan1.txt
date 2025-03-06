@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -C "23211tt0052@mail.tdc.edu.vn" -f "id_rsa_Kiet232111tt0052"
